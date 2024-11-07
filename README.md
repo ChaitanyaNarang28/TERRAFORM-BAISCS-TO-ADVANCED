@@ -47,10 +47,6 @@ This repository is perfect for:
 
 Your contributions are welcome! If you have notes, examples, or tips related to Terraform that you'd like to share, feel free to submit a pull request or open an issue.
 
-## License
-
-This repository is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
 ---
 
 Thanks for visiting this repository! Dive in and expand your Terraform skills from basics to the most advanced techniques. If you find this helpful, don't forget to star ⭐ the repository and share it with your peers.
