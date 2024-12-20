@@ -2,7 +2,7 @@
 
 Welcome to the **Terraform Basics to Advanced** repository! 🌍
 
-This repository is dedicated to sharing comprehensive notes and resources related to **Terraform**, from foundational concepts to advanced practices. It is designed to assist DevOps practitioners, cloud enthusiasts, and anyone looking to enhance their infrastructure-as-code (IaC) skills.
+This repository is dedicated to sharing comprehensive notes and resources related to **Terraform**, from foundational concepts to advanced practices. It is designed to assist DevOps practitioners, cloud enthusiasts, and anyone looking to enhance their infrastructure-as-code (IaC) skills. 
 
 ## Overview
 
